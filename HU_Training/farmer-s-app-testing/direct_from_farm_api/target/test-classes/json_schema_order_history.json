@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "orderId": {
+          "type": "integer"
+        },
+        "amountPaid": {
+          "type": "number"
+        },
+        "orderStatus": {
+          "type": "string"
+        },
+        "orderCompletionOTP": {
+          "type": "integer"
+        },
+        "orderDateAndTimeMilliseconds": {
+          "type": "integer"
+        },
+        "farmerName": {
+          "type": "string"
+        },
+        "farmerId": {
+          "type": "integer"
+        },
+        "productCount": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "orderId",
+        "amountPaid",
+        "orderStatus",
+        "orderCompletionOTP",
+        "orderDateAndTimeMilliseconds",
+        "farmerName",
+        "farmerId",
+        "productCount"
+      ]
+    }
+  ]
+}

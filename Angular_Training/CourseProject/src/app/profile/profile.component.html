@@ -1,0 +1,103 @@
+
+  <div class="container rounded bg-white mt-5 mb-5">
+    <div class="row">
+        <div class="col-md-2 border-right">
+           <!-- <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+             <img class="rounded-circle mt-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQF2psCzfbB611rnUhxgMi-lc2oB78ykqDGYb4v83xQ1pAbhPiB&usqp=CAU"><span class="font-weight-bold">Amelly</span><span class="text-black-50">amelly12@bbb.com</span><span> </span></div> -->
+            <img  src="assets\images\profile.jpg"  style="margin:3px;height: 150px;width:150px"/>
+          </div>
+
+        <div class="col-md-8 border-right">
+            <div class="p-3 py-5">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h4 class="text-right">Profile Settings</h4>
+                </div>
+
+              <div class="row mt-2">
+                <form (ngSubmit)="onSubmit(form)" #form="ngForm"  >
+                  <div class="col-md-6" style=" margin-bottom: 25px;"><label class="labels">Diplay Name</label>
+                      <input type="text" id="name" class="form-control"
+                      name="displayname"
+                      [ngModel]="user.displayname"
+                      required
+                      #nameCtrl="ngModel">
+                      <span class="help-block" *ngIf="nameCtrl.invalid && nameCtrl.touched">Please enter Display name!</span></div>
+                    <div class="col-md-6"><label class="labels">First Name</label>
+                      <input type="text" id="name" class="form-control"
+                     name="firstname"
+                      [ngModel]="user.firstname"
+                      required
+                      #fnameCtrl="ngModel">
+                      <span class="help-block" *ngIf="fnameCtrl.invalid && fnameCtrl.touched">Please enter first name!</span></div>
+
+                    <div class="col-md-6"><label class="labels">Last Name</label>
+                      <input type="text" id="name" class="form-control"
+                      name="lastname"
+                      [ngModel]="user.lastname"
+                      required
+                      #lnameCtrl="ngModel">
+                      <span class="help-block" *ngIf="lnameCtrl.invalid && lnameCtrl.touched">Please enter Last name!</span></div>
+                    <div class="col-md-12" style=" margin-bottom: 25px;"><label class="labels">About</label>
+                      <input type="text" id="name" class="form-control" style="background-color:whitesmoke; height: 150px; width:500px;"
+                      name="about"   maxlength="100"
+                      [ngModel]="user.about"
+                      #aboutCtrl="ngModel">
+                      <span class="help-block" *ngIf="aboutCtrl.value.length >= 100 ">word limit = 100 !</span>
+                    </div>
+                    <div class="row mt-3">
+                    <div class="col-md-12 form-group" style="background-color:whitesmoke; margin-bottom: 25px;">
+                      <p>Your Area of Interest</p>
+                      <div *ngFor="let item of Interests">
+                        <label>
+                        <input type="checkbox" name="{{item.Name}}" [ngModel]="item.Checked"   />
+                        <span innerHTML="{{item.Name}}"></span>
+                       </label>
+                      </div>
+                    </div>
+                    <div class="col-md-12 form-group" style="background-color:whitesmoke; margin-bottom: 25px;">
+                      <p>Are you a Student or Professional  </p>
+                      <div *ngFor="let item of Occupation" style="display:inline; margin-right: 50px;">
+                        <label>
+                        <input type="radio" value="{{item.Name}}" name="Occupation"  [ngModel]="user.Occupation"  />
+                        <span innerHTML="{{item.Name}}"></span>
+                       </label>
+                      </div>
+                    </div>
+                    <div class="col-md-12 form-group" style="background-color:whitesmoke; margin-bottom: 25px;">
+                      <p>How much Experience do you have</p>
+                      <div *ngFor="let item of Experience" style="display:inline; margin-right: 50px;">
+                        <label>
+                        <input type="radio" value="{{item.Name}}" name="Experience" [ngModel]="user.Experience"  />
+                        <span innerHTML="{{item.Name}}"></span>
+                       </label>
+                      </div>
+                    </div>
+                    <div class="col-md-12 form-group"style="background-color:whitesmoke; margin-bottom: 25px;">
+                      <p>What is your Expertise</p>
+                      <div *ngFor="let item of Expertise" style="display:inline; margin-right: 40px;">
+                        <label>
+                        <input type="radio" value="{{item.Name}}" name="Expertise" [ngModel]="user.Expertise"  />
+                        <span innerHTML="{{item.Name}}"></span>
+                       </label>
+                      </div>
+                    </div>
+                    <div class="col-md-12" style=" margin-bottom: 25px;"><label class="labels">Mention a note</label>
+                      <input type="text" id="name" class="form-control" maxlength="100"
+                      name="note"
+                      [ngModel]="user.note"
+                      >
+                    </div>
+
+                    <div ><button class="btn btn-primary profile-button" type="submit" [disabled]="form.invalid">Save Profile</button></div>
+
+                </div>
+           </form>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+
+

@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "src.test.java" parallel = "tests" thread-count = "3">
+    <test name = "Carts Test">
+        <classes>
+            <class name = "Carts" />
+        </classes>
+    </test>
+    <test name = "Test Product">
+        <classes>
+            <class name = "Product" />
+        </classes>
+    </test>
+    <test name = "Test users">
+        <classes>
+            <class name = "Users" />
+        </classes>
+    </test>
+</suite>

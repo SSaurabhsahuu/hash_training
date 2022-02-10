@@ -1,0 +1,2 @@
+        Product_name             Quantity                Price     Date of Purchase 
+                zinc                   12       12*6 = 72 only           15/08/2021 

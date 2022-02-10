@@ -1,0 +1,32 @@
+<div  style=" margin-bottom:20px ;background-color: white; border-bottom: 1px solid gray; border-radius: 10px;
+background-image: linear-gradient(rgba(245, 245, 245, 0),whitesmoke);" class="row g-3 " cdkDrag>
+  <div class="col-sm-4">
+    <h4  >{{ courses_of_course.name }}</h4>
+  </div>
+  <div class="col-sm-2">
+    <p  >{{ courses_of_course.instructor }} </p>
+  </div>
+
+  <div *ngIf="currentRoute==='/courses'" class="col-sm-1">
+    <button style="background-color:white; margin:auto; padding:1px 1px; border:0px;"> <img id="myImage" [src]="courses_of_course.starPath" (click)="onClickStar()" style="height: 20px;width:20px"/>
+      </button>
+    </div>
+
+  <div class="col-sm-2">
+    <p  >Rs. {{ courses_of_course.cost }}/-</p>
+  </div>
+
+  <button style="background-color:orange; margin:auto ; border:0px;" class="col-sm-2"
+  (click)="onAddToCart()">ADD TO CART</button>
+
+  <div *ngIf="currentRoute==='/wishlist'" class="col-sm-1">
+   <button style="background-color:white; margin:auto; padding:1px 1px; border:0px;">
+     <img  src="assets\images\delete.png" (click)="onClickStar()" style="margin:3px;height: 20px;width:25px"/>
+   </button>
+  </div>
+
+  <button style="background-color:white; margin:auto; padding:1px 1px; border:0px;"class="col-sm-1"
+  routerLink="/detail" (click)="onClickDetail()" > > </button>
+
+
+</div>

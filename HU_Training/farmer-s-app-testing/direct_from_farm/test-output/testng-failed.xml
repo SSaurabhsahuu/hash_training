@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [src.test.java]" parallel="tests">
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+  </listeners>
+  <test thread-count="1" name="Tests3(failed)" parallel="tests">
+    <classes>
+      <class name="testing.RegistrationTest">
+        <methods>
+          <include name="farmerRegisterationPageTest"/>
+          <include name="initialSetup"/>
+          <include name="homePageTest"/>
+          <include name="invalid_email_CustomerRegisterationTest"/>
+          <include name="closeTest"/>
+          <include name="empty_password_CustomerRegisterationTest"/>
+        </methods>
+      </class> <!-- testing.RegistrationTest -->
+    </classes>
+  </test> <!-- Tests3(failed) -->
+  <test thread-count="1" name="Tests4(failed)" parallel="tests">
+    <classes>
+      <class name="testing.PurchaseTest">
+        <methods>
+          <include name="check_total_price_of_items_in_cart"/>
+          <include name="initialSetup"/>
+          <include name="purchase_without_delivery_address"/>
+          <include name="check_items_in_sub_category"/>
+          <include name="homePageTest"/>
+        </methods>
+      </class> <!-- testing.PurchaseTest -->
+    </classes>
+  </test> <!-- Tests4(failed) -->
+  <test thread-count="1" name="Tests5(failed)" parallel="tests">
+    <classes>
+      <class name="testing.FarmerAddsProductTest">
+        <methods>
+          <include name="AddProductTest"/>
+          <include name="closeTest"/>
+          <include name="initialSetup"/>
+          <include name="homePageTest"/>
+        </methods>
+      </class> <!-- testing.FarmerAddsProductTest -->
+    </classes>
+  </test> <!-- Tests5(failed) -->
+</suite> <!-- Failed suite [src.test.java] -->

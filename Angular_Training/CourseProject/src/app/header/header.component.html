@@ -1,0 +1,33 @@
+
+<div  style="background-color:whitesmoke; " class="row g-3 " >
+
+    <ul class="nav nav-pills ">
+      <a routerLink="/courses" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <img  src="assets\images\H-logo.png" style="margin:3px;height: 70px; width:150px "/>
+      </a>
+
+      <li role="presentation" routerLinkActive="active">
+        <h3><a routerLink="/courses"  class="nav-link">Courses</a> </h3>        <!-- instead of href, routerLink is used -->
+        </li>
+
+      <li role="presentation" routerLinkActive="active">
+      <h3><a routerLink="/wishlist" class="nav-link">My Wishlist</a></h3>
+      </li>
+
+      <li role="presentation" routerLinkActive="active">
+        <a routerLink="/cart"  class="nav-link"><img  src="assets\images\cart.png" /></a>
+
+       </li>
+
+        <li role="presentation " routerLinkActive="active">
+           <a routerLink="/profile"  class="nav-link"><img  src="assets\images\user.png" /></a>
+        </li>
+    </ul>
+
+  </div>
+  <div style="background-color: BLACK;"><h2 style=" margin-left:10px ; display: inline; color:white">Discover Latest Web Development Courses</h2>
+    <img src="assets\images\spiderweb.jpg" style="margin-left:470px;height: 80px; width:190px "/></div>
+
+  <router-outlet></router-outlet>
+

@@ -1,0 +1,40 @@
+
+<div cdkDrag *ngIf="currentRoute==='/courses' || currentRoute==='/wishlist' " style="border-bottom: 1px solid gray; border-radius: 10px;
+background-image: linear-gradient(rgba(245, 245, 245, 0),whitesmoke)"  class="list-group-item d-flex justify-content-between lh-sm">
+  <div>
+    <h5 class="my-0">{{ courses_of_cart.name}} </h5>
+  </div>
+  <span style="font-size:x-small;">Rs. {{ courses_of_cart.cost}}/-</span>
+</div>
+
+
+
+<div  *ngIf="currentRoute==='/cart'" style="border-bottom: 1px solid gray; border-radius: 10px;
+background-image: linear-gradient(rgba(245, 245, 245, 0),whitesmoke); position: relative; padding:0px; margin-bottom: 16px;" class="row g-3 " >
+  <div class="col-sm-4">
+    <h4  >{{ courses_of_cart.name }}</h4>
+    <p class="text-muted">{{ courses_of_cart.instructor }} </p>
+  </div>
+
+  <button style="background-color:white;  margin:auto ; border:0px;"class="col-sm-2"
+  (click)="onMoveToWishlist()"><small style="font-size:x-small; color:blue">Move to Wishlist</small>
+  </button>
+
+  <div class="col-sm-2">
+    <p  style="margin: 0;
+    position: absolute;
+    top: 40%;">Rs. {{ courses_of_cart.cost }}/-</p>
+  </div>
+
+  <button class="col-sm-1" style="background-color:white; margin:auto; padding:1px 1px; border:0px;">
+    <img  src="assets\images\delete.png" (click)="onDelete()" style="margin:3px;height: 20px;width:25px"/>
+  </button>
+</div>
+
+
+<div *ngIf="courses_of_cart.length==1">
+    <p>No items added to Cart</p>
+</div>
+
+
+

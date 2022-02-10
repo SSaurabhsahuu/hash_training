@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "src.test.java" parallel = "tests" thread-count = "5">
+    <listeners>
+        <listener class-name="listeners.Listeners"/>
+    </listeners>
+ <test name = "Tests1">
+        <classes>
+            <class name = "testing.DirectFromFieldTest" />
+        </classes>
+    </test>
+    <test name = "Tests2">
+        <classes>
+            <class name = "testing.LoginTest" />
+        </classes>
+    </test>
+  <test name = "Tests3">
+        <classes>
+            <class name = "testing.RegistrationTest" />
+        </classes>
+    </test>
+    <test name = "Tests4">
+        <classes>
+            <class name = "testing.PurchaseTest" />
+        </classes>
+    </test>
+    <test name = "Tests5">
+        <classes>
+            <class name = "testing.FarmerAddsProductTest" />
+        </classes>
+    </test>
+
+
+</suite>

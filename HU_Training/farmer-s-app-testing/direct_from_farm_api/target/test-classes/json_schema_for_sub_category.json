@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "productCategoryId": {
+          "type": "integer"
+        },
+        "productCategoryName": {
+          "type": "string"
+        },
+        "productCategoryImageUrl": {
+          "type": "string"
+        },
+        "productSubCategories": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "productSubCategoryId": {
+                  "type": "integer"
+                },
+                "productSubCategoryName": {
+                  "type": "string"
+                },
+                "productSubCategoryImageUrl": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "productSubCategoryId",
+                "productSubCategoryName",
+                "productSubCategoryImageUrl"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "productCategoryId",
+        "productCategoryName",
+        "productCategoryImageUrl",
+        "productSubCategories"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Ans 1)
+		Agile Model						V Model
+
+1) Iterative and Incremental model				Not Iterative and not Incremental model
+
+2) Developers and Testers work parallely			Developers and Testers work sequentialy
+
+3) Changes can be made after a sprint				Changes cannot be made
+
+4) Communication is easy between Developers and Testers 	Communication is not easy between Developers and Testers 
+   and are dependent on each other				 and are independent on each other	
+
+5) Total 5 stages						5 stages for Verification and 5 stages for Validation
+
+Agile Model is prefered as changes can be made as per client , a product is released after each sprint which makes 
+communication between client and organization easy and their is good communication between developers and testers.  
+This is why most organisations use Agile model.
+
+
+Ans 2)
+	If Client comes with fixed requirements then Waterfall Model is used as each stage is well defined and 
+        sequential so at each stage we get a output which is used as input for next stage and it is easy to use.
+	Also as requirements are fixed so we do not need a iterative model.

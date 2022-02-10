@@ -1,0 +1,39 @@
+
+<div class="row g-5">
+  <div  class="col-md-7 col-lg-8">
+    <h4 style="padding:20px">My Wishlist</h4>
+    <app-courses *ngFor="let item of filterMarkedCourses('assets/images/yellow-star.jpg')"
+     [courses_of_course]="item">
+    </app-courses>
+
+  </div>
+
+  <div style="padding:10px; " class="col-md-5 col-lg-4 order-md-last">
+    <h4 class="d-flex justify-content-between align-items-center mb-3">
+      <span style="margin:auto" class="text-primary">Your Cart Details</span>
+    </h4>
+    <div style="padding:5px; height: 400px; overflow-y: auto; border:1px solid;" class="container">
+
+      <app-cart *ngFor="let crt of cart"
+      [courses_of_cart]="crt"></app-cart>
+
+    <div *ngIf="cart.length==0">
+      <p style="width: 200px; padding:50% 0px; margin:auto; ">No items added to Cart</p>
+    </div>
+  </div>
+
+
+      <div style="width:355px; position:relative; border:1px solid">
+        <p style="margin-left:10px">Total Cart Value</p>
+        <h4 style="margin-left:10px">Rs. {{ totalAmount }}/.</h4>
+
+          <a routerLink="/cart" style=" position: absolute;
+          right: 0; top:20px; color:orange" class="nav-link">Go To Checkout</a>
+
+      </div>
+
+  </div>
+
+
+
+</div>

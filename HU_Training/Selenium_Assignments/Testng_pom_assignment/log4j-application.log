@@ -1,0 +1,37 @@
+23:24:24,058  INFO Pages.LoginPage<strong>{1}</strong>:23 - Entering username
+23:24:27,146  INFO Pages.LoginPage<strong>{1}</strong>:29 - Entering Password
+23:24:30,220  INFO Pages.LoginPage<strong>{1}</strong>:35 - click on login
+23:39:43,753  INFO Pages.LoginPage<strong>{1}</strong>:23 - Entering username
+23:39:43,858  INFO Pages.LoginPage<strong>{1}</strong>:29 - Entering Password
+23:39:43,927  INFO Pages.LoginPage<strong>{1}</strong>:35 - click on login
+23:39:44,039  INFO Pages.LoginPage<strong>{1}</strong>:21 - Select highest priced item
+23:39:44,173  INFO Pages.LoginPage<strong>{1}</strong>:38 - check price in limit
+23:39:44,205  INFO Pages.LoginPage<strong>{1}</strong>:53 - check visibility of add to  cart
+23:39:44,942  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:39:44,978  INFO Pages.LoginPage<strong>{1}</strong>:65 - check visibility of remove
+23:39:45,714  INFO Pages.LoginPage<strong>{1}</strong>:71 - click remove
+23:39:45,751  INFO Pages.LoginPage<strong>{1}</strong>:53 - check visibility of add to  cart
+23:39:46,484  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:39:46,515  INFO Pages.LoginPage<strong>{1}</strong>:76 - click on cart
+23:39:46,571  INFO Pages.LoginPage<strong>{1}</strong>:18 - click continue shopping
+23:39:46,632  INFO Pages.LoginPage<strong>{1}</strong>:29 - Select lowest priced item
+23:39:47,445  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:39:47,480  INFO Pages.LoginPage<strong>{1}</strong>:76 - click on cart
+23:39:47,528  INFO Pages.LoginPage<strong>{1}</strong>:100 - click checkout
+23:41:03,534  INFO Pages.LoginPage<strong>{1}</strong>:23 - Entering username
+23:41:03,630  INFO Pages.LoginPage<strong>{1}</strong>:29 - Entering Password
+23:41:03,686  INFO Pages.LoginPage<strong>{1}</strong>:35 - click on login
+23:41:03,782  INFO Pages.LoginPage<strong>{1}</strong>:21 - Select highest priced item
+23:41:03,911  INFO Pages.LoginPage<strong>{1}</strong>:38 - check price in limit
+23:41:03,935  INFO Pages.LoginPage<strong>{1}</strong>:53 - check visibility of add to  cart
+23:41:04,668  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:41:04,716  INFO Pages.LoginPage<strong>{1}</strong>:65 - check visibility of remove
+23:41:05,448  INFO Pages.LoginPage<strong>{1}</strong>:71 - click remove
+23:41:05,496  INFO Pages.LoginPage<strong>{1}</strong>:53 - check visibility of add to  cart
+23:41:06,223  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:41:06,255  INFO Pages.LoginPage<strong>{1}</strong>:76 - click on cart
+23:41:06,311  INFO Pages.LoginPage<strong>{1}</strong>:18 - click continue shopping
+23:41:06,407  INFO Pages.LoginPage<strong>{1}</strong>:29 - Select lowest priced item
+23:41:07,224  INFO Pages.LoginPage<strong>{1}</strong>:60 - click add to cart
+23:41:07,256  INFO Pages.LoginPage<strong>{1}</strong>:76 - click on cart
+23:41:07,310  INFO Pages.LoginPage<strong>{1}</strong>:100 - click checkout

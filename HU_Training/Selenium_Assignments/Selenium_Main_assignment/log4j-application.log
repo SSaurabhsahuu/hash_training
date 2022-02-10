@@ -1,0 +1,1429 @@
+19:05:31,721  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+19:05:37,233  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+19:05:47,108  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+19:05:47,216  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+19:05:47,216  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+19:05:47,247  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,261  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,273  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,325  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+19:05:47,353  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,364  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,376  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:05:47,421  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+19:05:50,763  INFO Pages.CheckoutPage<strong>{1}</strong>:32 - click pay
+19:05:50,813  INFO Pages.CheckoutPage<strong>{1}</strong>:38 - enter email
+19:06:11,022  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+19:06:31,247  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+19:08:54,479  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+19:09:00,175  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+19:09:03,235  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+19:09:03,309  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+19:09:03,310  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+19:09:03,341  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:09:03,355  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:09:03,367  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:09:03,416  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+19:09:03,443  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:09:03,456  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+19:09:03,505  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+19:09:08,597  INFO Pages.CheckoutPage<strong>{1}</strong>:32 - click pay
+19:09:08,647  INFO Pages.CheckoutPage<strong>{1}</strong>:38 - enter email
+19:09:09,619  INFO Pages.CheckoutPage<strong>{1}</strong>:49 - Enter card number
+19:09:09,852  INFO Pages.CheckoutPage<strong>{1}</strong>:58 - Enter Expiry date
+19:09:10,028  INFO Pages.CheckoutPage<strong>{1}</strong>:66 - Enter CVC
+19:09:10,196  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter Zip code
+19:09:10,377  INFO Pages.CheckoutPage<strong>{1}</strong>:82 - click confirm pay
+19:09:10,653  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+19:09:15,235  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+20:25:23,994  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+20:25:30,374  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+20:25:35,120  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+20:25:35,176  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+20:25:35,177  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+20:25:35,209  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,224  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,235  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,281  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+20:25:35,308  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,320  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,331  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:25:35,377  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+20:25:40,704  INFO Pages.CheckoutPage<strong>{1}</strong>:32 - click pay
+20:25:40,749  INFO Pages.CheckoutPage<strong>{1}</strong>:38 - enter email
+20:25:41,690  INFO Pages.CheckoutPage<strong>{1}</strong>:49 - Enter card number
+20:25:41,931  INFO Pages.CheckoutPage<strong>{1}</strong>:58 - Enter Expiry date
+20:25:42,101  INFO Pages.CheckoutPage<strong>{1}</strong>:66 - Enter CVC
+20:25:42,287  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter Zip code
+20:25:42,483  INFO Pages.CheckoutPage<strong>{1}</strong>:82 - click confirm pay
+20:25:42,779  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+20:25:47,003  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+20:31:38,834  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+20:31:44,973  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+20:32:05,429  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+20:32:30,909  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+20:32:35,727  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+20:32:38,212  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+20:32:38,288  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+20:32:38,288  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+20:32:38,322  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:32:38,336  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:32:38,348  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:32:38,400  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+20:32:38,431  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:32:38,444  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+20:32:38,495  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+20:32:41,740  INFO Pages.CheckoutPage<strong>{1}</strong>:32 - click pay
+20:32:41,785  INFO Pages.CheckoutPage<strong>{1}</strong>:38 - enter email
+20:32:42,712  INFO Pages.CheckoutPage<strong>{1}</strong>:49 - Enter card number
+20:32:42,965  INFO Pages.CheckoutPage<strong>{1}</strong>:58 - Enter Expiry date
+20:32:43,149  INFO Pages.CheckoutPage<strong>{1}</strong>:66 - Enter CVC
+20:32:43,321  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter Zip code
+20:32:43,503  INFO Pages.CheckoutPage<strong>{1}</strong>:82 - click confirm pay
+20:32:43,779  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+20:32:48,125  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:11:38,987  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:11:45,884  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:11:50,339  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:11:50,394  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:11:50,395  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:11:50,431  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:11:50,446  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:11:50,459  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:11:50,472  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:11:50,519  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:11:50,548  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:11:50,596  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:12:00,392  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:12:00,440  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email
+21:12:01,380  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number
+21:12:01,636  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date
+21:12:01,807  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC
+21:12:01,981  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code
+21:12:02,154  INFO Pages.CheckoutPage<strong>{1}</strong>:120 - click confirm pay
+21:12:02,485  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:12:22,696  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:12:54,595  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:13:00,192  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:13:03,737  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:13:03,818  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:13:03,819  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:13:03,845  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:13:03,862  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:13:03,873  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:13:03,924  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:13:03,952  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:13:03,964  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:13:04,013  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:13:06,664  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:13:06,713  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email
+21:13:07,675  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number
+21:13:07,932  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date
+21:13:08,119  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC
+21:13:08,288  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code
+21:13:08,483  INFO Pages.CheckoutPage<strong>{1}</strong>:120 - click confirm pay
+21:13:08,789  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:13:28,996  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:13:52,894  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:13:58,280  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:14:00,851  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:14:00,926  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:14:00,927  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:14:00,952  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:00,967  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:00,977  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:00,987  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:00,997  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:01,040  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:14:01,064  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:14:01,111  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:14:04,077  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:14:04,138  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email
+21:14:04,972  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number
+21:14:05,219  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date
+21:14:05,399  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC
+21:14:05,572  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code
+21:14:05,751  INFO Pages.CheckoutPage<strong>{1}</strong>:120 - click confirm pay
+21:14:06,084  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:17:51,975  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:17:57,457  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:18:00,010  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:18:00,091  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:18:00,091  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:18:00,119  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:18:00,134  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:18:00,146  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:18:00,193  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:18:00,219  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:18:00,232  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:18:00,288  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:18:04,039  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:18:04,088  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email
+21:18:05,461  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number
+21:18:05,698  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date
+21:18:05,871  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC
+21:18:06,043  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code
+21:18:06,224  INFO Pages.CheckoutPage<strong>{1}</strong>:120 - click confirm pay
+21:18:06,499  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:18:11,634  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:25:16,035  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:25:21,310  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:25:23,875  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:25:23,948  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:25:23,949  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:25:23,980  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:25:23,994  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:25:24,006  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:25:24,053  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:25:24,082  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:25:24,096  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:25:24,151  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:25:28,702  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:25:28,751  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email tyu@gmail.com
+21:25:29,623  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3782 822463 10005
+21:25:29,860  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 9/22
+21:25:30,029  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 124
+21:25:30,214  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 678991
+21:25:30,392  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+21:25:30,699  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:25:35,027  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:26:10,853  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:26:15,378  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:26:17,790  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:26:17,863  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:26:17,863  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:26:17,893  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:26:17,909  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:26:17,923  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:26:17,935  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:26:17,991  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:26:18,020  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:26:18,074  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:26:21,152  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:26:21,199  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email tyu@gmail.com
+21:26:22,150  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3782 822463 10005
+21:26:22,388  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 9/22
+21:26:22,570  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 124
+21:26:22,741  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 678991
+21:26:22,924  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+21:26:23,202  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:26:27,766  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:28:35,934  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:28:40,652  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:28:43,097  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:28:43,171  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:28:43,172  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:28:43,202  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:28:43,218  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:28:43,233  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:28:43,284  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:28:43,315  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:28:43,329  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:28:43,378  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:28:47,954  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:28:48,000  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+21:28:48,849  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 6011 0009 9013 9424
+21:28:49,102  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/23
+21:28:49,285  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 679
+21:28:49,459  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 135792
+21:28:49,651  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+21:28:49,944  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:28:54,467  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:29:01,107  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:29:05,694  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:29:07,893  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:29:07,963  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:29:07,964  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:29:07,996  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:29:08,013  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:29:08,026  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:29:08,038  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:29:08,084  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:29:08,113  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:29:08,162  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:29:13,150  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:29:13,206  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email asdf@gmail.com
+21:29:14,138  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 5200 8282 8282 8210
+21:29:14,393  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/24
+21:29:14,572  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 789
+21:29:14,744  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 345678
+21:29:14,924  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+21:29:15,206  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:29:19,569  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+21:41:58,033  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+21:42:02,969  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+21:42:05,651  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+21:42:05,732  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+21:42:05,732  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:42:05,759  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,776  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,788  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,801  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,850  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+21:42:05,879  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,893  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+21:42:05,944  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+21:42:10,329  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+21:42:10,378  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abcde@gmail.com
+21:42:11,336  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+21:42:11,554  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 9/23
+21:42:11,716  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+21:42:11,886  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 567892
+21:42:12,032  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+21:42:32,227  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:06:06,289  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:06:12,201  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:06:12,280  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:06:12,280  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:06:12,593  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:06:22,846  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:06:28,197  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+00:06:30,471  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:06:30,548  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:06:30,548  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:06:30,575  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:06:30,590  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:06:30,641  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:06:30,669  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:06:30,682  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:06:30,695  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:06:30,741  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:06:35,999  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:06:36,048  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+00:06:36,995  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 4242 4242 4242 4242
+00:06:37,235  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 9/23
+00:06:37,422  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+00:06:37,607  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 123456
+00:06:37,802  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:06:38,104  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+00:06:42,619  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:19:48,125  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:19:53,091  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+00:19:57,226  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:19:57,302  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:19:57,303  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:19:57,477  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:19:57,631  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+00:20:16,264  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:20:24,251  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:20:28,852  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:20:33,950  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:20:34,028  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:20:34,029  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:20:34,057  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:20:34,072  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:20:34,084  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:20:34,132  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:20:34,159  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:20:34,172  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:20:34,221  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:20:37,896  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:20:37,946  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email rfvtgb@gmail.com
+00:20:39,290  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3714 496353 98431
+00:20:39,525  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 1/22
+00:20:39,707  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 246
+00:20:39,890  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 234567
+00:20:40,072  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:20:40,364  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+00:20:44,758  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:22:30,635  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:22:35,696  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:22:38,704  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:22:38,781  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:22:38,781  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:22:38,809  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:22:38,824  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:22:38,871  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:22:38,900  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:22:38,913  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:22:38,926  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:22:38,975  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:22:42,948  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:22:42,998  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abcd@gmail.com
+00:22:43,942  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 5555 5555 5555 4444
+00:22:44,172  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 5/22
+00:22:44,351  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 125
+00:22:44,522  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 123456
+00:22:44,704  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:22:44,978  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+00:22:49,358  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:25:38,132  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:25:42,843  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:25:45,494  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:25:45,588  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:25:45,588  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:25:45,611  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:25:45,659  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:25:45,686  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:25:45,697  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:25:45,708  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:25:45,719  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:25:45,769  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:25:50,034  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:25:50,091  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+00:25:51,069  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 4000 0566 5566 5556
+00:25:51,322  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 4/23
+00:25:51,501  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 345
+00:25:51,670  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 334567
+00:25:51,852  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:25:52,161  INFO Pages.ConfirmationPage<strong>{1}</strong>:22 - Check result
+00:25:56,718  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:38:37,770  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:38:42,282  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:38:45,144  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:38:45,320  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:38:45,320  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:38:45,349  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:38:45,364  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:38:45,417  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:38:45,448  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:38:45,463  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:38:45,519  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:38:49,434  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:38:49,577  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+00:38:50,627  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 4242 4242 4242 4242
+00:38:51,004  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 9/23
+00:38:51,274  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+00:38:51,546  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 123456
+00:38:51,829  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:38:52,311  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+00:38:57,187  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:39:16,090  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:39:20,870  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:39:23,612  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:39:23,730  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:39:23,731  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:39:23,773  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:39:23,797  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:39:23,868  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:39:23,910  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:39:23,929  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:39:23,997  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:39:28,498  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:39:28,554  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+00:39:29,656  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 6011 0009 9013 9424
+00:39:29,916  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/23
+00:39:30,096  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 679
+00:39:30,285  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 135792
+00:39:30,485  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:39:30,789  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+00:39:35,659  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:48:25,077  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:48:25,077  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+00:48:31,095  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+00:48:31,095  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+00:48:33,816  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:48:33,865  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+00:48:33,901  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:48:33,901  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:48:33,932  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:33,948  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:33,956  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+00:48:33,957  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:48:33,964  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:33,991  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,006  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,022  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,025  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:48:34,056  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,069  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,083  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+00:48:34,113  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,126  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:48:34,129  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+00:48:34,182  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+00:48:38,353  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:48:38,356  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+00:48:38,421  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+00:48:38,439  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email asdf@gmail.com
+00:48:39,616  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 5200 8282 8282 8210
+00:48:39,621  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 6011 0009 9013 9424
+00:48:39,958  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/23
+00:48:39,960  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/24
+00:48:40,162  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 679
+00:48:40,163  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 789
+00:48:40,362  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 135792
+00:48:40,362  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 345678
+00:48:40,586  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:48:40,587  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+00:48:40,969  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+00:48:40,983  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+00:48:45,697  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+00:48:45,805  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:15:44,358  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:15:44,358  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:15:49,185  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:15:49,185  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+01:15:51,747  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:15:51,747  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:15:51,811  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:15:51,812  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:15:51,814  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:15:51,814  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:15:51,838  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,839  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,850  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,850  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,890  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:15:51,890  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:15:51,913  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,913  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,923  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,923  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,932  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,932  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:15:51,972  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:15:51,972  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:15:55,644  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:15:55,693  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+01:15:55,761  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:15:55,810  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email qwerty@gmail.com
+01:15:56,656  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 4000 0566 5566 5556
+01:15:56,761  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 2223 0031 2200 3222
+01:15:56,909  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 4/23
+01:15:56,975  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 1/22
+01:15:57,078  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 345
+01:15:57,137  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 567
+01:15:57,248  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 334567
+01:15:57,296  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 234567
+01:15:57,443  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+01:15:57,486  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:15:57,730  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:16:02,390  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:16:17,672  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:20:01,276  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:20:01,276  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:20:05,532  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:20:05,532  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+01:20:07,194  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:20:07,300  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:20:07,428  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:20:07,766  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:20:07,832  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:20:07,833  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:20:07,856  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:20:07,871  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:20:07,880  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:20:07,918  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:20:07,939  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:20:07,948  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:20:07,987  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:20:08,844  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:20:08,938  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:20:27,816  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:20:29,346  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:20:57,578  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:20:57,578  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:21:01,765  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:21:01,822  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+01:21:04,118  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:21:04,178  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:21:04,178  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:21:04,206  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,221  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,232  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,242  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,254  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,289  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:21:04,311  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,350  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:21:04,620  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:21:04,682  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:21:04,682  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:21:04,703  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,718  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,765  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:21:04,808  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,830  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,843  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,856  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:21:04,895  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:21:07,320  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:21:07,367  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+01:21:07,401  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:21:07,450  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email qwerty@gmail.com
+01:21:08,421  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 6011 0009 9013 9424
+01:21:08,557  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 2223 0031 2200 3222
+01:21:08,680  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/23
+01:21:08,789  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 1/22
+01:21:08,847  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 679
+01:21:08,959  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 567
+01:21:09,017  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 135792
+01:21:09,127  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 234567
+01:21:09,204  INFO Pages.CheckoutPage<strong>{1}</strong>:121 - click confirm pay
+01:21:09,300  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:21:09,478  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:21:14,093  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:21:29,526  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:34:04,799  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:34:09,810  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:34:13,161  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:34:13,226  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:34:13,226  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:34:13,253  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,265  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,278  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,319  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:34:13,341  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,353  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,364  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:34:13,407  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:34:19,875  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:34:19,915  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:34:20,790  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:34:20,999  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:34:21,165  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:34:21,331  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 123456
+01:34:21,509  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:34:21,799  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:34:26,133  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:37:58,129  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:38:01,969  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:38:05,141  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:38:05,205  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:38:05,205  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:38:05,233  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:05,248  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:05,300  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:38:05,329  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:05,342  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:05,354  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:05,389  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:38:10,203  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:38:10,251  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:38:11,144  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:38:11,358  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:38:11,536  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:38:11,704  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 123456
+01:38:11,867  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:38:12,140  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:38:16,490  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:38:31,940  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:38:49,501  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:38:51,906  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:38:51,968  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:38:51,969  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:38:51,996  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:52,009  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:52,046  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:38:52,074  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:52,090  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:52,105  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:38:52,156  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:38:56,068  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:38:56,108  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:38:57,431  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:38:57,622  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:38:57,809  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:38:57,989  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:38:57,989  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:38:58,280  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:39:18,691  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+01:42:41,097  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:42:45,860  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:42:48,282  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:42:48,345  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:42:48,345  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:42:48,374  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:42:48,385  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:42:48,396  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:42:48,439  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:42:48,464  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:42:48,474  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:42:48,518  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:42:52,825  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:42:52,867  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:42:53,749  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:42:53,976  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:42:54,149  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:42:54,305  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:42:54,306  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:42:54,559  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:45:41,093  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:45:45,898  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:45:48,481  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:45:48,552  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:45:48,552  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:45:48,579  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,593  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,604  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,641  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:45:48,661  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,669  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,679  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:45:48,713  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:45:51,739  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:45:51,780  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:45:52,653  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:45:52,860  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:45:53,017  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:45:53,184  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:45:53,184  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:45:53,463  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:47:10,956  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:47:15,616  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:47:18,384  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:47:18,440  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:47:18,441  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:47:18,467  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:47:18,477  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:47:18,486  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:47:18,524  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:47:18,545  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:47:18,554  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:47:18,598  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:47:22,692  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:47:22,732  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:47:23,604  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720627 1667
+01:47:23,799  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:47:23,958  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:47:24,125  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:47:24,126  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:47:24,401  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:49:23,996  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:49:28,905  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:49:31,199  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:49:31,262  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:49:31,263  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:49:31,286  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,299  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,308  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,343  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:49:31,366  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,374  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,382  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:49:31,423  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:49:34,520  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:49:34,560  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:49:35,456  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720\627 1667
+01:49:35,688  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:49:35,866  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:49:36,038  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:49:36,038  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:49:36,317  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:50:19,295  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:50:23,419  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:50:27,020  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:50:27,083  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:50:27,083  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:50:27,108  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,120  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,130  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,167  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:50:27,188  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,197  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,205  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:50:27,243  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:50:32,255  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:50:32,295  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:50:34,185  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 72027 1667
+01:50:34,395  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:50:34,561  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:50:34,714  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:50:34,714  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:50:34,977  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+01:51:31,254  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+01:51:35,150  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+01:51:38,398  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+01:51:38,465  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+01:51:38,465  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:51:38,493  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:51:38,505  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:51:38,513  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:51:38,523  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:51:38,560  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+01:51:38,583  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+01:51:38,622  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+01:51:41,272  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+01:51:41,311  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+01:51:42,203  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3622 720 627 1667
+01:51:42,400  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 03/23
+01:51:42,566  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+01:51:42,730  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 
+01:51:42,730  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+01:51:43,014  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+09:38:35,101  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+09:38:40,257  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+09:38:44,526  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+09:38:44,610  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+09:38:44,610  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+09:38:44,642  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+09:38:44,658  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+09:38:44,666  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+09:38:44,714  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+09:38:44,746  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+09:38:44,754  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+09:38:44,803  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+09:38:49,471  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+09:38:49,519  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email rfvtgb@gmail.com
+09:38:50,470  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 3714 496353 98431
+09:38:50,707  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 1/22
+09:38:50,883  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 246
+09:38:51,051  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 234567
+09:38:51,235  INFO Pages.CheckoutPage<strong>{1}</strong>:123 - click confirm pay
+09:38:51,513  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+09:38:58,176  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+10:03:50,480  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+10:03:57,218  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+10:04:00,030  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+10:04:00,103  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:74 - perform task
+10:04:00,103  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:04:00,125  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:04:00,141  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:04:00,157  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:04:00,205  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:04:00,232  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:04:00,240  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:04:00,297  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:79 - click on cart
+10:04:06,325  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+10:04:06,373  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+10:04:07,309  INFO Pages.CheckoutPage<strong>{1}</strong>:55 - Enter card number 4242 4242 4242 4242
+10:04:07,549  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - Enter Expiry date 3/23
+10:04:07,719  INFO Pages.CheckoutPage<strong>{1}</strong>:74 - Enter CVC 123
+10:04:07,895  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter Zip code 654321
+10:04:08,079  INFO Pages.CheckoutPage<strong>{1}</strong>:132 - click confirm pay
+10:04:08,367  INFO Pages.ConfirmationPage<strong>{1}</strong>:23 - Check result
+10:04:13,298  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+10:40:30,459  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+10:40:30,459  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+10:40:35,646  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+10:40:35,668  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+10:40:39,171  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+10:40:39,171  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+10:40:39,234  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+10:40:39,234  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:40:39,234  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+10:40:39,235  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:40:39,262  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,262  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,274  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,274  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,284  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,293  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,310  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:40:39,329  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:40:39,331  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,340  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,349  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,349  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:40:39,387  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+10:40:39,387  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+10:40:44,203  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+10:40:44,237  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+10:40:44,250  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+10:40:44,285  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email rfvtgb@gmail.com
+10:40:45,261  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 4000 0566 5566 5556
+10:40:45,528  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+10:40:45,637  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3714 496353 98431
+10:40:45,691  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 345
+10:40:45,853  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 1/22
+10:40:45,858  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 334567
+10:40:46,009  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 246
+10:40:46,031  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+10:40:46,165  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 234567
+10:40:46,315  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+10:40:46,338  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+10:40:46,452  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+10:40:46,676  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+10:40:46,809  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+10:42:56,948  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+10:42:56,948  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+10:43:01,588  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+10:43:01,615  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+10:43:03,921  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+10:43:03,978  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+10:43:03,978  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:43:03,999  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,009  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,042  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:43:04,060  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,070  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,103  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+10:43:04,171  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+10:43:04,236  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+10:43:04,236  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:43:04,290  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,301  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,310  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,345  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+10:43:04,364  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,372  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+10:43:04,405  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+10:43:07,031  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+10:43:07,068  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+10:43:07,073  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email zxcv@gmail.com
+10:43:07,116  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email tyu@gmail.com
+10:43:07,998  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5105 1051 0510 5100
+10:43:08,091  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3782 822463 10005
+10:43:08,249  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+10:43:08,354  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 9/22
+10:43:08,435  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 357
+10:43:08,516  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 124
+10:43:08,615  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 456789
+10:43:08,678  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 678991
+10:43:08,801  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+10:43:08,856  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+10:43:09,063  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+10:43:09,169  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+10:43:09,191  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+10:43:09,363  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+11:34:31,994  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:34:36,808  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+11:34:39,577  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:34:39,646  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+11:34:39,646  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:34:39,670  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:34:39,681  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:34:39,694  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:34:39,704  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:34:39,747  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:34:39,768  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:34:39,811  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+11:34:46,120  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:34:46,161  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email rfvtgb@gmail.com
+11:34:47,129  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3714 496353 98431
+11:34:47,345  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 1/22
+11:34:47,517  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 246
+11:34:47,671  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 234567
+11:34:47,832  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:34:48,071  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:34:48,183  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+11:35:18,381  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:35:23,051  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+11:35:25,606  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:35:25,668  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+11:35:25,669  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:35:25,696  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,710  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,722  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,732  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,770  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:35:25,800  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,813  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:35:25,868  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+11:35:30,551  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:35:30,598  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+11:35:31,475  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 4000 0566 5566 5556
+11:35:31,715  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+11:35:31,888  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 345
+11:35:32,068  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 334567
+11:35:32,234  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:35:32,507  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:35:32,628  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+11:36:02,075  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:36:07,345  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+11:36:10,410  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:36:10,470  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+11:36:10,470  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:36:10,491  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:10,510  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:10,555  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:36:10,591  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:10,604  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:10,648  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+11:36:14,550  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:36:14,600  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abcd@gmail.com
+11:36:15,443  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5555 5555 5555 4444
+11:36:15,732  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 5/22
+11:36:15,904  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 125
+11:36:16,082  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 123456
+11:36:16,274  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:36:16,543  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:36:16,660  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+11:36:49,280  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:36:55,967  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+11:36:58,439  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:36:58,500  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+11:36:58,500  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:36:58,530  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:58,541  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:58,578  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:36:58,603  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:58,612  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:36:58,650  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+11:37:05,053  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:37:05,097  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+11:37:06,012  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 4000 0566 5566 5556
+11:37:06,251  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+11:37:06,429  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 345
+11:37:06,607  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 334567
+11:37:06,793  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:37:07,073  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:49:13,827  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:49:19,350  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+11:49:21,720  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:49:21,776  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+11:49:21,776  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:49:21,801  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:49:21,810  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:49:21,843  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:49:21,863  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:49:21,871  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:49:21,903  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+11:49:26,386  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:49:26,424  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email rfvtgb@gmail.com
+11:49:27,730  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3714 496353 98431
+11:49:27,938  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 1/22
+11:49:28,101  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 246
+11:49:28,257  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 234567
+11:49:28,422  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:49:28,677  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:53:18,474  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+11:53:23,069  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+11:53:25,715  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+11:53:25,772  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+11:53:25,772  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:53:25,795  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:53:25,807  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:53:25,817  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:53:25,851  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+11:53:25,872  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:53:25,881  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+11:53:25,915  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+11:53:28,849  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+11:53:28,889  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email tyu@gmail.com
+11:53:29,760  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3782 822463 10005
+11:53:29,978  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 9/22
+11:53:30,132  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 124
+11:53:30,283  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 678991
+11:53:30,446  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+11:53:30,685  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+11:53:31,789  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:11:54,171  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:12:00,660  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:12:03,058  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:12:03,121  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:12:03,121  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:12:03,146  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:12:03,160  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:12:03,169  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:12:03,208  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:12:03,229  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:12:03,239  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:12:03,278  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:12:07,517  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:12:07,552  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email tyu@gmail.com
+12:12:08,405  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 3782 822463 10005
+12:12:08,620  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 9/22
+12:12:08,793  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 124
+12:12:08,960  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 678991
+12:12:09,138  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:12:13,793  INFO Pages.ConfirmationPage<strong>{1}</strong>:24 - Check result
+12:12:14,908  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:13:55,841  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:14:00,005  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:14:02,666  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:14:02,730  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:14:02,730  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:14:02,753  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,767  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,778  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,788  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,823  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:14:02,843  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,853  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:14:02,890  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:14:07,735  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:14:07,773  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email xyz@gmail.com
+12:14:08,657  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 4000 0566 5566 5556
+12:14:08,873  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+12:14:09,036  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 345
+12:14:09,195  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 334567
+12:14:09,343  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:14:09,589  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:14:15,362  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:25:49,353  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:25:49,353  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:25:55,594  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:25:55,608  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+12:25:59,264  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:25:59,264  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:25:59,359  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:25:59,359  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:25:59,365  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+12:25:59,365  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:25:59,398  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,400  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,418  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,418  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,433  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,447  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,475  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:25:59,507  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,507  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:25:59,524  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,540  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,562  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:25:59,586  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+12:25:59,615  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:26:03,874  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:26:03,880  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:26:03,931  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abc@gmail.com
+12:26:03,938  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abcd@gmail.com
+12:26:05,019  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 4242 4242 4242 4242
+12:26:05,252  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 9/23
+12:26:05,320  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5555 5555 5555 4444
+12:26:05,433  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 123
+12:26:05,561  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 5/22
+12:26:05,609  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 123456
+12:26:05,741  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 125
+12:26:05,781  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:26:05,943  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 123456
+12:26:06,081  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:26:06,143  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:26:06,436  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:26:10,390  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:26:10,861  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:26:27,829  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:26:27,829  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:26:33,364  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:26:33,364  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+12:26:35,839  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:26:35,841  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:26:35,920  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+12:26:35,921  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:26:35,920  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:26:35,921  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:26:35,949  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:35,949  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:35,961  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:35,961  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,003  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:26:36,003  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:26:36,036  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,036  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,048  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,048  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,059  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,059  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:26:36,104  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+12:26:36,104  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:26:42,471  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:26:42,491  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:26:42,516  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+12:26:42,543  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email asdf@gmail.com
+12:26:43,634  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 6011 0009 9013 9424
+12:26:43,634  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5200 8282 8282 8210
+12:26:43,912  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 3/23
+12:26:43,945  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 3/24
+12:26:44,106  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 679
+12:26:44,132  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 789
+12:26:44,283  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 135792
+12:26:44,307  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 345678
+12:26:44,478  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:26:44,486  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:26:44,797  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:26:44,822  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:26:49,147  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:26:49,237  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:30:34,772  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:30:40,154  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:30:42,896  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:30:42,993  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:30:42,993  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:30:43,017  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,033  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,049  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,057  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,100  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:30:43,132  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,140  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:30:43,188  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:30:46,290  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:30:46,338  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email zxcv@gmail.com
+12:30:47,362  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5105 1051 0510 5100
+12:30:47,603  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 4/23
+12:30:47,771  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 357
+12:30:47,938  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 456789
+12:30:48,123  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:30:48,420  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:30:53,124  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:30:53,192  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:30:58,004  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+12:31:00,946  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:31:01,017  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+12:31:01,017  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:31:01,041  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:31:01,052  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:31:01,095  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:31:01,120  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:31:01,131  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:31:01,178  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+12:31:04,068  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:31:04,113  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email hjkl@gmail.com
+12:31:04,997  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 6011 0009 9013 9424
+12:31:05,239  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 3/23
+12:31:05,412  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 679
+12:31:05,583  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 135792
+12:31:05,779  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:31:06,136  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:31:10,441  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:54:45,719  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:54:45,719  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+12:54:50,671  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+12:54:52,284  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+12:54:54,414  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:54:54,507  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+12:54:54,507  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:54:54,556  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,573  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,585  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,605  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,667  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:54:54,694  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,697  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+12:54:54,743  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+12:54:54,783  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+12:54:54,783  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:54:54,807  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,819  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,866  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+12:54:54,891  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,902  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,913  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,924  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+12:54:54,966  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+12:55:01,507  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:55:01,558  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email abcd@gmail.com
+12:55:01,781  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+12:55:01,839  INFO Pages.CheckoutPage<strong>{1}</strong>:43 - enter email qwerty@gmail.com
+12:55:02,465  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 5555 5555 5555 4444
+12:55:02,830  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 5/22
+12:55:03,031  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 125
+12:55:03,192  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 123456
+12:55:03,232  INFO Pages.CheckoutPage<strong>{1}</strong>:57 - Enter card number 2223 0031 2200 3222
+12:55:03,373  INFO Pages.CheckoutPage<strong>{1}</strong>:137 - click confirm pay
+12:55:03,446  INFO Pages.CheckoutPage<strong>{1}</strong>:67 - Enter Expiry date 1/22
+12:55:03,631  INFO Pages.CheckoutPage<strong>{1}</strong>:76 - Enter CVC 567
+12:55:03,692  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:55:03,819  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter Zip code 234567
+12:55:03,984  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+12:55:08,112  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+12:55:24,462  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+13:03:08,292  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+13:03:42,994  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+13:04:09,230  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+13:04:14,977  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+13:04:15,274  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+13:04:15,413  INFO Pages.CheckoutPage<strong>{1}</strong>:37 - click pay
+13:04:15,688  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+13:04:36,315  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+14:52:14,976  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+14:52:20,838  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+14:52:25,320  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+14:52:25,384  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+14:52:25,384  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:52:25,418  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:52:25,469  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:52:25,495  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:52:25,507  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:52:25,518  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:52:25,530  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:52:25,579  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+14:52:29,267  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+14:52:49,930  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+14:57:46,431  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+14:57:53,456  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+14:57:57,651  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+14:57:57,732  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+14:57:57,732  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:57:57,759  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:57:57,772  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:57:57,783  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:57:57,830  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:57:57,855  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:57:57,866  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:57:57,914  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+14:58:03,166  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+14:58:27,493  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+14:59:22,519  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+14:59:28,569  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+14:59:31,354  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+14:59:31,435  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+14:59:31,435  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:59:31,469  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:59:31,484  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:59:31,497  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:59:31,543  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+14:59:31,569  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:59:31,581  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+14:59:31,629  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+14:59:38,020  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:00:04,556  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:02:24,959  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:02:32,445  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:02:35,546  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:02:35,628  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:02:35,628  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:02:35,658  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,674  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,726  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:02:35,754  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,765  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,776  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,787  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:02:35,825  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:02:39,288  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:02:54,757  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:03:42,309  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:03:49,952  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:03:53,015  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:03:53,097  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:03:53,097  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:03:53,130  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:03:53,144  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:03:53,156  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:03:53,200  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:03:53,227  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:03:53,240  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:03:53,292  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:03:57,682  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:04:13,670  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:05:38,457  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:05:44,814  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:05:48,040  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:05:48,127  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:05:48,127  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:05:48,160  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:05:48,174  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:05:48,186  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:05:48,197  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:05:48,241  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:05:48,267  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:05:48,313  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:05:52,352  INFO Pages.CheckoutPage<strong>{1}</strong>:64 - click pay
+15:05:52,395  INFO Pages.CheckoutPage<strong>{1}</strong>:70 - enter email asdf@gmail.com
+15:05:53,344  INFO Pages.CheckoutPage<strong>{1}</strong>:84 - Enter card number 5200 8282 8282 8210
+15:05:53,593  INFO Pages.CheckoutPage<strong>{1}</strong>:94 - Enter Expiry date 3/24
+15:05:53,776  INFO Pages.CheckoutPage<strong>{1}</strong>:103 - Enter CVC 789
+15:05:53,947  INFO Pages.CheckoutPage<strong>{1}</strong>:112 - Enter Zip code 345678
+15:05:54,129  INFO Pages.CheckoutPage<strong>{1}</strong>:164 - click confirm pay
+15:05:54,405  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:06:00,433  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:19:12,491  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:19:12,492  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:19:20,842  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+15:19:20,842  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:19:23,712  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:19:23,803  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:19:23,804  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:19:23,835  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:23,850  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:23,860  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:19:23,901  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:19:23,932  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:23,947  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:23,964  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+15:19:23,964  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:19:23,966  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:23,992  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:24,004  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:24,020  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:19:24,057  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:19:24,085  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:24,095  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:24,108  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:19:24,152  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+15:19:29,030  INFO Pages.CheckoutPage<strong>{1}</strong>:63 - click pay
+15:19:29,081  INFO Pages.CheckoutPage<strong>{1}</strong>:69 - enter email zxcv@gmail.com
+15:19:29,143  INFO Pages.CheckoutPage<strong>{1}</strong>:63 - click pay
+15:19:29,193  INFO Pages.CheckoutPage<strong>{1}</strong>:69 - enter email hjkl@gmail.com
+15:19:30,294  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter card number 6011 0009 9013 9424
+15:19:30,310  INFO Pages.CheckoutPage<strong>{1}</strong>:83 - Enter card number 5105 1051 0510 5100
+15:19:30,603  INFO Pages.CheckoutPage<strong>{1}</strong>:93 - Enter Expiry date 4/23
+15:19:30,609  INFO Pages.CheckoutPage<strong>{1}</strong>:93 - Enter Expiry date 3/23
+15:19:30,776  INFO Pages.CheckoutPage<strong>{1}</strong>:102 - Enter CVC 357
+15:19:30,795  INFO Pages.CheckoutPage<strong>{1}</strong>:102 - Enter CVC 679
+15:19:30,940  INFO Pages.CheckoutPage<strong>{1}</strong>:111 - Enter Zip code 456789
+15:19:30,964  INFO Pages.CheckoutPage<strong>{1}</strong>:111 - Enter Zip code 135792
+15:19:31,129  INFO Pages.CheckoutPage<strong>{1}</strong>:163 - click confirm pay
+15:19:31,148  INFO Pages.CheckoutPage<strong>{1}</strong>:163 - click confirm pay
+15:19:31,441  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:19:31,486  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:19:36,270  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:19:36,304  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:27:33,525  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:27:33,525  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:27:39,674  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:27:39,674  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+15:27:43,002  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:27:43,017  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:27:43,084  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+15:27:43,085  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:27:43,092  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:27:43,093  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:27:43,114  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,119  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,130  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,131  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,144  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,156  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,178  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:27:43,201  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:27:43,203  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,214  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,225  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,225  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,238  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:27:43,269  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+15:27:43,280  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:27:49,179  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - click pay
+15:27:49,202  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - click pay
+15:27:49,245  INFO Pages.CheckoutPage<strong>{1}</strong>:71 - enter email dgfh@gmail.com
+15:27:49,275  INFO Pages.CheckoutPage<strong>{1}</strong>:71 - enter email asdf@gmail.com
+15:27:50,338  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter card number 6011 1111 1111 1117
+15:27:50,348  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter card number 5200 8282 8282 8210
+15:27:50,615  INFO Pages.CheckoutPage<strong>{1}</strong>:95 - Enter Expiry date 2/23
+15:27:50,645  INFO Pages.CheckoutPage<strong>{1}</strong>:95 - Enter Expiry date 3/24
+15:27:50,801  INFO Pages.CheckoutPage<strong>{1}</strong>:104 - Enter CVC 431
+15:27:50,840  INFO Pages.CheckoutPage<strong>{1}</strong>:104 - Enter CVC 789
+15:27:50,993  INFO Pages.CheckoutPage<strong>{1}</strong>:113 - Enter Zip code 213467
+15:27:51,023  INFO Pages.CheckoutPage<strong>{1}</strong>:113 - Enter Zip code 345678
+15:27:51,218  INFO Pages.CheckoutPage<strong>{1}</strong>:165 - click confirm pay
+15:27:51,239  INFO Pages.CheckoutPage<strong>{1}</strong>:165 - click confirm pay
+15:27:51,567  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:27:51,615  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:27:56,307  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:27:56,423  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:37:25,424  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:37:25,424  INFO Pages.BaseClass<strong>{1}</strong>:13 - initial setup
+15:37:35,149  INFO Pages.HomePage<strong>{1}</strong>:23 - click on sunscreen
+15:37:35,244  INFO Pages.HomePage<strong>{1}</strong>:19 - click on moisturizer
+15:37:40,057  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:37:40,123  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:76 - perform task
+15:37:40,123  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:37:40,156  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,172  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,184  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,231  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:37:40,256  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,268  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,316  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:82 - click on cart
+15:37:40,613  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:29 - clcik i icon
+15:37:40,666  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:75 - perform task
+15:37:40,667  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:37:40,691  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,704  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,750  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:46 - add to cart
+15:37:40,781  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,791  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,802  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:34 - get price from string
+15:37:40,857  INFO Pages.MoisturizerProductPage<strong>{1}</strong>:81 - click on cart
+15:37:48,408  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - click pay
+15:37:48,413  INFO Pages.CheckoutPage<strong>{1}</strong>:65 - click pay
+15:37:48,480  INFO Pages.CheckoutPage<strong>{1}</strong>:71 - enter email tyu@gmail.com
+15:37:48,487  INFO Pages.CheckoutPage<strong>{1}</strong>:71 - enter email dgfh@gmail.com
+15:37:49,581  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter card number 6011 1111 1111 1117
+15:37:49,582  INFO Pages.CheckoutPage<strong>{1}</strong>:85 - Enter card number 3782 822463 10005
+15:37:49,878  INFO Pages.CheckoutPage<strong>{1}</strong>:95 - Enter Expiry date 9/22
+15:37:49,896  INFO Pages.CheckoutPage<strong>{1}</strong>:95 - Enter Expiry date 2/23
+15:37:50,080  INFO Pages.CheckoutPage<strong>{1}</strong>:104 - Enter CVC 124
+15:37:50,105  INFO Pages.CheckoutPage<strong>{1}</strong>:104 - Enter CVC 431
+15:37:50,266  INFO Pages.CheckoutPage<strong>{1}</strong>:113 - Enter Zip code 678991
+15:37:50,284  INFO Pages.CheckoutPage<strong>{1}</strong>:113 - Enter Zip code 213467
+15:37:50,462  INFO Pages.CheckoutPage<strong>{1}</strong>:165 - click confirm pay
+15:37:50,482  INFO Pages.CheckoutPage<strong>{1}</strong>:165 - click confirm pay
+15:37:50,793  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:37:50,813  INFO Pages.ConfirmationPage<strong>{1}</strong>:25 - Check result
+15:37:57,188  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser
+15:37:57,210  INFO Pages.BaseClass<strong>{1}</strong>:24 - close browser

@@ -1,0 +1,33 @@
+
+ng new First-angular --no-strict
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+
+ng serve				to start server
+ng g c componenet_name			to create new component
+npm install --save bootstrap   &  add  @import '~bootstrap/dist/css/bootstrap.css';    in style.css
+ng build --prod	--base-href /my-cool-app/	converts our .ts node .js html css code 
+						into js html css which minimizes our 
+						project file size
+ng build 		also used to check lazy loading 
+			ng serve 	lazy loading generates chunk files in networks tab of developer console
+
+ng test					to start testing
+npm install --save @ngrx/store		to use ngrx store
+
+string interpolation {{}}		output data in html
+property binding []			output change of properties of elements under some criteria
+event binding []			take input from html when a event occurs
+2 way binding [()]			property binding + event binding
+
+if reactivity is missing see  lecture-93    Using Subjects as event emitters
+
+@ decortors	@Input		
+		@Output		use import { EventEmitter } from '@angular/core';
+
+Directives	*ngIf
+		*ngFor
+		ngStyle
+		ngClass
+
+#some_name	referencing

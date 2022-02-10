@@ -1,0 +1,14 @@
+Null Pointer Exception		:  	new object() not created
+data.properties			:	global variables are declared here 
+@Data Provider function		:	a test case runs with many different data
+Make listeners Thread safe 	:	ThreadLocal  class
+Adding screenshots in extent report 
+Implicit wait			:	is global wait that applies to all elements and the 
+					driver waits for this time 
+					and if element is not found still then it throws exception
+					and if found earlier then driver without waiting for
+					maximum time executes the code
+					( disadvantage	: in performance testing )
+					( advantage	: cleaner, readable code )
+Explicit wait			:	used to apply waits to specific elements untill certain
+					criteria is not met

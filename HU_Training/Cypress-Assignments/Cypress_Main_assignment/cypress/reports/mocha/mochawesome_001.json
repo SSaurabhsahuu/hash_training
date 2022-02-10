@@ -1,0 +1,145 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-09-01T13:12:35.352Z",
+    "end": "2021-09-01T13:12:43.077Z",
+    "duration": 7725,
+    "testsRegistered": 3,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "d2a7e197-e0db-45cd-af7e-d7330721daa2",
+      "title": "",
+      "fullFile": "cypress/integration/Login_spec.js",
+      "file": "cypress/integration/Login_spec.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "d4101072-538c-4400-99d5-e041cd8556a3",
+          "title": "Test Swag labs Login",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "VERIFY url and login",
+              "fullTitle": "Test Swag labs Login VERIFY url and login",
+              "timedOut": null,
+              "duration": 2867,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit('https://www.saucedemo.com/');\ncy.url().should('eq', 'https://www.saucedemo.com/');\ncy.get('input[id=\"login-button\"]').click();\ncy.get('div[class*=\"error\"] > h3').should('contains.text', 'Epic sadface: Username is required');",
+              "err": {},
+              "uuid": "79da233d-c29e-4a15-87d2-b06d32ccaea9",
+              "parentUUID": "d4101072-538c-4400-99d5-e041cd8556a3",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "VERIFY login without password ",
+              "fullTitle": "Test Swag labs Login VERIFY login without password ",
+              "timedOut": null,
+              "duration": 736,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit('https://www.saucedemo.com/');\ncy.get('#user-name').type('standard_user');\ncy.get('input[id=\"login-button\"]').click();\ncy.get('div[class*=\"error\"] > h3').should('contains.text', 'Epic sadface: Password is required');",
+              "err": {},
+              "uuid": "f2b61f4e-5d3a-49aa-8f32-92c0215256ac",
+              "parentUUID": "d4101072-538c-4400-99d5-e041cd8556a3",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "VERIFY Homepage ",
+              "fullTitle": "Test Swag labs Login VERIFY Homepage ",
+              "timedOut": null,
+              "duration": 994,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit('https://www.saucedemo.com/');\ncy.get('#user-name').type(\"standard_user\");\ncy.get('#password').type(\"secret_sauce\");\ncy.get('input[id=\"login-button\"]').click(); // validate total 6 items in inventory \ncy.url().should('eq', 'https://www.saucedemo.com/inventory.html');",
+              "err": {},
+              "uuid": "2b810e0f-7e56-4412-8880-e4c6a6b9460d",
+              "parentUUID": "d4101072-538c-4400-99d5-e041cd8556a3",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "79da233d-c29e-4a15-87d2-b06d32ccaea9",
+            "f2b61f4e-5d3a-49aa-8f32-92c0215256ac",
+            "2b810e0f-7e56-4412-8880-e4c6a6b9460d"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 4597,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "6.2.2"
+    },
+    "marge": {
+      "options": {
+        "id": "default",
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "overwrite": false,
+        "html": false,
+        "json": true
+      },
+      "version": "5.2.0"
+    }
+  }
+}

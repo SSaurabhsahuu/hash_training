@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Setup complete]]>
+    </line>
+    <line>
+      <![CDATA[homepage completed]]>
+    </line>
+    <line>
+      <![CDATA[check toatal price]]>
+    </line>
+    <line>
+      <![CDATA[check toatal price]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-08-23T15:37:25 IST" name="src.test.java" finished-at="2021-08-23T15:37:57 IST" duration-ms="32057">
+    <groups>
+    </groups>
+    <test started-at="2021-08-23T15:37:25 IST" name="Moisturizer Test" finished-at="2021-08-23T15:37:57 IST" duration-ms="31917">
+      <class name="Test.MoisturizerTests">
+        <test-method is-config="true" signature="loadlog4()[pri:0, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:25 IST" name="loadlog4" finished-at="2021-08-23T15:37:25 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadlog4 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:25 IST" name="setup" finished-at="2021-08-23T15:37:35 IST" duration-ms="9822" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setup complete]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="home_function()[pri:1, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:35 IST" name="home_function" finished-at="2021-08-23T15:37:39 IST" duration-ms="4573" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[homepage completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- home_function -->
+        <test-method signature="add_product_function()[pri:2, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:40 IST" name="add_product_function" finished-at="2021-08-23T15:37:48 IST" duration-ms="8107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_product_function -->
+        <test-method signature="checkout_function()[pri:3, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:48 IST" name="checkout_function" finished-at="2021-08-23T15:37:50 IST" duration-ms="2341" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[check toatal price]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkout_function -->
+        <test-method signature="confirm_function()[pri:4, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:50 IST" name="confirm_function" finished-at="2021-08-23T15:37:57 IST" duration-ms="6301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_function -->
+        <test-method is-config="true" signature="end_function()[pri:0, instance:Test.MoisturizerTests@525b461a]" started-at="2021-08-23T15:37:57 IST" name="end_function" finished-at="2021-08-23T15:37:57 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_function -->
+      </class> <!-- Test.MoisturizerTests -->
+    </test> <!-- Moisturizer Test -->
+    <test started-at="2021-08-23T15:37:25 IST" name="Sunscreen test" finished-at="2021-08-23T15:37:57 IST" duration-ms="32057">
+      <class name="Test.SunscreenTests">
+        <test-method is-config="true" signature="loadlog4()[pri:0, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:25 IST" name="loadlog4" finished-at="2021-08-23T15:37:25 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadlog4 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:25 IST" name="setup" finished-at="2021-08-23T15:37:35 IST" duration-ms="9704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="home_function()[pri:1, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:35 IST" name="home_function" finished-at="2021-08-23T15:37:40 IST" duration-ms="5312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_function -->
+        <test-method signature="add_product_function()[pri:2, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:40 IST" name="add_product_function" finished-at="2021-08-23T15:37:48 IST" duration-ms="7551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_product_function -->
+        <test-method signature="checkout_function()[pri:3, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:48 IST" name="checkout_function" finished-at="2021-08-23T15:37:50 IST" duration-ms="2348" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[check toatal price]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkout_function -->
+        <test-method signature="confirm_function()[pri:4, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:50 IST" name="confirm_function" finished-at="2021-08-23T15:37:57 IST" duration-ms="6280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_function -->
+        <test-method is-config="true" signature="end_function()[pri:0, instance:Test.SunscreenTests@ca263c2]" started-at="2021-08-23T15:37:57 IST" name="end_function" finished-at="2021-08-23T15:37:57 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_function -->
+      </class> <!-- Test.SunscreenTests -->
+    </test> <!-- Sunscreen test -->
+  </suite> <!-- src.test.java -->
+</testng-results>

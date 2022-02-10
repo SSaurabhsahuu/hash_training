@@ -1,0 +1,16 @@
+{
+  "firstName": "Aaditya",
+  "lastName": "Gautam",
+  "email": "aditya1111@gmail.com",
+  "mobileNumber": "992893335649",
+  "address": {
+    "addressLine1": "abcddsere",
+    "addressLine2": "qwertsadadtrr",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pinCode": 411334
+  },
+  "profilePictureUrl": "stringsvdksd",
+  "aadharCardPictureUrl": "striddnfsscdeee",
+  "password": "qwerty"
+}

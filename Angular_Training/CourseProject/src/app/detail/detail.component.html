@@ -1,0 +1,27 @@
+<div>
+  <div style="background-color: black; padding-left: 10px; height:180px; color:white" >
+    <h3 >{{course_detail.name}} : Lorem nipor sit amet </h3>
+    <p >Lorem ipsum dolor sit amet consectetur adipisicicint quod </p>
+    <p style="color:wheat">Instructor : {{ course_detail.instructor}}</p>
+    <div style=" position: relative;left: 600px;top: -80px; width:400px; ">
+      <div style="background-color: black;">
+        <iframe width="400" height="200" [src]="mapURL" >
+        </iframe>
+
+       </div>
+       <div style="color:black">
+        <h5 >Rs. {{course_detail.cost}} /.</h5>
+        <p style="color:red">5 hours left for this price</p>
+        <button type="button" style="width:195px" (click)="onAddToCart()" class="btn btn-warning">ADD TO CART</button>
+        <button type="button"style="width:195px" (click)="onAddToWishlist()" class="btn btn-outline-warning">ADD TO WISHLIST</button>
+
+
+       </div>
+
+    </div>
+  </div>
+  <div style="width:500px">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab voluptates delectus in, quo corporis nihil sequi sed ratione ipsum voluptatum suscipit ea voluptatem impedit, repudiandae beatae cum aperiam, at aut.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam amet deleniti optio ducimus, sed, blanditiis tempore iste eum quod aperiam unde eligendi incidunt aliquid maiores tenetur commodi accusamus enim labore!</p>
+  </div>
+</div>

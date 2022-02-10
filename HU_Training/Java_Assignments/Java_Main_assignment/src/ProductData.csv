@@ -1,0 +1,10 @@
+﻿p_id,Product_name,Price,Quantity
+p_001,Oxygen Cylinder,5000,10
+p_002,Paracetamol,7,100
+p_003,Hydroxychloroquine,6,50
+p_004,Ivermectin,30,50
+p_005,Remdesivir,2500,30
+p_006,Vitamin C,1,100
+p_007,Zinc,6,100
+p_008,Antibiotics,10,100
+p_009,Oximeter,2000,15

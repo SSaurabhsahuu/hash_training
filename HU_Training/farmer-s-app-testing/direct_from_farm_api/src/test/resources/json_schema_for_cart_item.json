@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "cartItemId": {
+          "type": "integer"
+        },
+        "product": {
+          "type": "object",
+          "properties": {
+            "productId": {
+              "type": "integer"
+            },
+            "productName": {
+              "type": "string"
+            },
+            "price": {
+              "type": "integer"
+            },
+            "shippingCost": {
+              "type": "integer"
+            },
+            "minSellingQuantity": {
+              "type": "integer"
+            },
+            "stockLeft": {
+              "type": "integer"
+            },
+            "description": {
+              "type": "string"
+            },
+            "productCategory": {
+              "type": "string"
+            },
+            "productSubCategory": {
+              "type": "string"
+            },
+            "farmerName": {
+              "type": "string"
+            },
+            "farmerId": {
+              "type": "integer"
+            },
+            "productImages": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "productImagesId": {
+                      "type": "integer"
+                    },
+                    "imageUrl": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "productImagesId",
+                    "imageUrl"
+                  ]
+                }
+              ]
+            },
+            "productUnitsType": {
+              "type": "string"
+            },
+            "averageRating": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "productId",
+            "productName",
+            "price",
+            "shippingCost",
+            "minSellingQuantity",
+            "stockLeft",
+            "description",
+            "productCategory",
+            "productSubCategory",
+            "farmerName",
+            "farmerId",
+            "productImages",
+            "productUnitsType",
+            "averageRating"
+          ]
+        },
+        "quantity": {
+          "type": "integer"
+        },
+        "cartItemPrice": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "cartItemId",
+        "product",
+        "quantity",
+        "cartItemPrice"
+      ]
+    }
+  ]
+}

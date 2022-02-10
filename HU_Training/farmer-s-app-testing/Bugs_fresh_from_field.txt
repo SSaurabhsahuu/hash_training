@@ -1,0 +1,9 @@
+	Fresh From Field	Bugs
+
+1) User Registration without password
+2) User registration with Invalid email
+3) Products with zero items shows items of previously selected product
+4) total prize not equal to sum of subtotal
+5) purchase without delivery address moves to order successfull page
+6) Wrong message when invalid email login
+7) farmer can add product without image and deliver pin code  

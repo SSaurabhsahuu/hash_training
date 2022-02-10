@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launched url]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="23386" started-at="2021-09-16T20:18:17 IST" finished-at="2021-09-16T20:18:40 IST">
+    <groups>
+    </groups>
+    <test name="DirectFromFarm" duration-ms="23386" started-at="2021-09-16T20:18:17 IST" finished-at="2021-09-16T20:18:40 IST">
+      <class name="testing.DirectFromFieldTest">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:testing.DirectFromFieldTest@2b2948e2]" name="initialSetup" is-config="true" duration-ms="4740" started-at="2021-09-16T20:18:17 IST" finished-at="2021-09-16T20:18:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="homePageTest()[pri:1, instance:testing.DirectFromFieldTest@2b2948e2]" name="homePageTest" duration-ms="17512" started-at="2021-09-16T20:18:21 IST" finished-at="2021-09-16T20:18:39 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="end_test()[pri:0, instance:testing.DirectFromFieldTest@2b2948e2]" name="end_test" is-config="true" duration-ms="1098" started-at="2021-09-16T20:18:39 IST" finished-at="2021-09-16T20:18:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_test -->
+      </class> <!-- testing.DirectFromFieldTest -->
+    </test> <!-- DirectFromFarm -->
+  </suite> <!-- Default Suite -->
+</testng-results>

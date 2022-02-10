@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div >
+      <app-header></app-header>                     <!-- for hyperlinks -->
+      
+    </div>
+
+  </div>
+
+<div cdkDropListGroup>
+   <div cdkDropList >
+     <h2> animals  owned</h2>
+    <div cdkDrag *ngFor="let animal of ownedAnimals">
+      {{ animal}}
+    </div>
+   </div>
+
+   <div cdkDropList (cdkDropListDropped)="onDrop($event)">
+    <h2> animals wishlist</h2>
+   <div cdkDrag *ngFor="let animal of animalWishlist">
+     {{ animal}}
+   </div>
+  </div>
+</div>
+
+  <div class="row">
+    <div class="col-xs-12">
+      <router-outlet ></router-outlet>
+      <!-- <app-list [courses_of_list]="getCourses()"></app-list>              // for all different paths -->
+    </div>
+  </div>
+</div>

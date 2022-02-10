@@ -1,0 +1,45 @@
+
+<div class="row g-5" cdkDropListGroup>
+  <div  class="col-md-7 col-lg-8">
+    <h2 style="padding-top:20px">All Courses</h2>
+
+    <div cdkDropList>
+      <app-courses *ngFor="let cour of courses_of_list"
+      [courses_of_course]="cour" >
+     </app-courses>
+    </div>
+
+  </div>
+
+  <div style="padding:10px; " class="col-md-5 col-lg-4 order-md-last">
+    <h4 class="d-flex justify-content-between align-items-center mb-3">
+      <span style="margin:auto;color:black" class="text-primary">Your Cart Details</span>
+    </h4>
+    <div cdkDropList style="padding:5px; height: 300px; overflow: y 360px;  border-radius: 10px;
+    background-image: linear-gradient(rgba(245, 245, 245, 0),whitesmoke);" class="container"
+     >
+
+      <app-cart *ngFor="let crt of cart"
+      [courses_of_cart]="crt" cdkDropList></app-cart>
+
+    <div *ngIf="cart.length==0">
+      <p style="width: 200px; padding:30% 0px; margin:auto; ">No items added to Cart</p>
+    </div>
+  </div>
+
+
+      <div style="width:355px; position:relative; border-radius: 10px;
+      background-image: linear-gradient(rgba(245, 245, 245, 0),whitesmoke);">
+        <p style="margin-left:10px">Total Cart Value</p>
+        <h4 style="margin-left:10px">Rs. {{ totalAmount }}/.</h4>
+
+          <a routerLink="/cart" style=" position: absolute;
+          right: 0; top:20px; color:orange" class="nav-link">Go To Checkout</a>
+
+      </div>
+
+  </div>
+
+
+
+</div>

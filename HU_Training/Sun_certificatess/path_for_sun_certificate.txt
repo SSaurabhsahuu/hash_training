@@ -1,0 +1,10 @@
+solve PKIX sun certificte error
+
+make certificate location C:\Temp\CloudCert.crt
+
+in cmd first go to location of certificate (C:\Temp\CloudCert.crt) by cd
+
+then give below command
+"C:\Users\saurasahu\.jdks\corretto-1.8.0_302\jre\bin\keytool.exe" -import -file "C:\Temp\CloudCert.crt" -keystore "C:\Users\saurasahu\.jdks\corretto-1.8.0_302\jre\lib\security\cacerts" -alias "Cloud Certificate"
+
+change jre version to	corretto 1.8	in all projects

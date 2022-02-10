@@ -1,0 +1,21 @@
+get	200	no body				id in queryParameter	no content-type in header 
+put	200	id & new value in body		no id			content-type
+post	201	new data in body		no id			content-type
+delete	200,204  id in body
+
+End point = Base url/resource/(path or query) parameter
+www.google.com/images/123454				path parameter
+www.google.com/images?sort_by=2/20/2021			query parameter		starts with ?
+
+headers	 contains meta data like	content type, 
+					Authorization data
+
+RequestSpecBuilder	is used in non BDD style otherwise code does not work as intended
+
+OAuth2		
+Authorization code	get authorization code -> get access code  (Sign in)(person asks data to google)
+client credential	get access code				 (client website ask data to google)
+
+POJO	Plane Object Java	getters	& setters
+Serialization		process of converting java object into payload in request body (post,put)
+Deserialization		process of converting response body into java object (get) 

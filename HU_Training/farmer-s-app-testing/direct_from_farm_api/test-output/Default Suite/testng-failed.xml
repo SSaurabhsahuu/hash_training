@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="ApiTesting(failed)">
+    <classes>
+      <class name="testing.FamerClass">
+        <methods>
+          <include name="update_order_status_out_for_delivery"/>
+          <include name="initialSetup"/>
+          <include name="update_order_status_to_delivered"/>
+        </methods>
+      </class> <!-- testing.FamerClass -->
+    </classes>
+  </test> <!-- ApiTesting(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

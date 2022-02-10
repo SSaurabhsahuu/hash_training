@@ -1,0 +1,32 @@
+
+<label>property binding</label>
+<input type="text" class="form-control"
+(input)="onUpdateServerName($event)">
+<p></p>
+<label>2 way binding</label>
+<input type="text" class="form-control"
+[(ngModel)]="serverName">
+<p>Server Name : {{ serverName }}</p>
+
+<button class="btn btn-primary"
+[disabled]="!allowNewServer"
+(click)="onCreateServer()">Add Server</button>
+
+<!--    <p [innerText]="allowNewServer"></p>     -->
+<!-- <p>{{ serverCreationStatus }}</p>    -->
+
+<p *ngIf="serverCreated; else noServer">Server was created, Server Name : {{ serverName }}</p>
+<ng-template #noServer>
+  <p>No Server was Created</p>
+</ng-template>
+
+<!-- without ngClass -->
+ <!-- <p [ngStyle]="{backgroundColor: getColor(), color: serverStatus === 'online' ? 'white':'black'}"
+ >Server is {{ serverStatus }}</p> -->
+ <!-- for green background with white text color -->
+ <p *ngFor="let serv of servers; let i=index" [ngStyle]="{backgroundColor: getColor()}"
+ [ngClass]="{online: serverStatus === 'online'}">{{ servers[i] }} created is {{ serverStatus }}</p>
+ <!-- here online is class whose css style is defined in .css file-->
+<!-- <app-server *ngFor="let server of servers; let i=index">{{ servers[i] }}</app-server> -->
+
+

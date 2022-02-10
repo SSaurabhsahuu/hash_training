@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "src.test.java">
+<!--       parallel = "tests" thread-count = "1">-->
+    <listeners>
+        <listener class-name="listeners.Listeners"/>
+    </listeners>
+    <test name = "Sample Tests1">
+        <classes>
+            <class name="testing.BaseClass"/>
+            <class name = "testing.CommonClass" />
+            <class name = "testing.FamerClass" />
+            <class name = "testing.CustomerClass" />
+<!--            <class name = "testing.CommonClass" />-->
+        </classes>
+    </test>
+</suite>

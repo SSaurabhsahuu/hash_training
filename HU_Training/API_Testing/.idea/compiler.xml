@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Restassured_Mini_assignment_1" />
+        <module name="New_project" />
+        <module name="Restassured_Main_Assignment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="New_project" target="8" />
+      <module name="Restassured_Main_Assignment" target="8" />
+      <module name="Restassured_Mini_assignment_1" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

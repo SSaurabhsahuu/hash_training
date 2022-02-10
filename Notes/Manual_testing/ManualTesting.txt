@@ -1,0 +1,124 @@
+Writing Test Cases
+1) Positive Test Case
+2) Negative Test Case
+3) UI Test Case
+
+Error, Defect, Bug, Failure
+Error		Mistake made in code by developer which causes defect, bug and failure
+Defect		When software is behaving in unexpected way in Developement phase				( when developer reports )
+Bug		When software is behaving in unexpected way in Testing phase					( when tester reports )
+Failure		When software is behaving in unexpected way after Deployement  when customer is using it	( when customer reports )
+
+SDLC	Software Development Life Cycle
+ Requirement analysis		output - User Requirement Specification
+ Design phase			Input- URS	
+ Development
+ Testing
+ Maintenance
+
+STLC	Software Testing Life Cycle		https://www.guru99.com/software-testing-life-cycle.html
+ Requirement Analysis		output- Requirement Tracebility Matrix  & Functional Requirement Specification     ( http://www.ofnisystems.com/services/validation/traceability-matrix/
+ Test Plan			input- RTM & FRS	output- Test Plan Document
+ Test Case Development		input- TPD		output- Test Cases
+ Environment Setup
+ Test Execution			Test Script Execution & maintainance, Bug Reporting	
+ Test Cycle Closure
+
+Requirement Tracebility Matrix		The document in which Test cases are maped with Business Requirements
+					We can check forward compatibility and backward compatibility
+
+Bug life Cycle			Bug Management Tool ( Jira, Trello )		https://myresources.deloitte.com/personal/saurasahu_deloitte_com/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Famedeloitte%2Esharepoint%2Ecom%2Fsites%2FHU20%2E0SDETTrack%2FShared%20Documents&id=%2Fsites%2FHU20%2E0SDETTrack%2FShared%20Documents%2FGeneral%2FManual%20Testing%2FDefect%20or%20bug%20life%20cycle%2Emp4&parent=%2Fsites%2FHU20%2E0SDETTrack%2FShared%20Documents%2FGeneral%2FManual%20Testing
+ 		New
+ 		Assigned 
+ 		Open		Duplicate	Rejected	Defered		Not a Bug
+ 		Fixed
+ 		Retest
+ Reopened
+ 		Verified
+ 		Closed
+
+Severity	Impact of a bug on other modules. If functionalities are not working.
+Priority	Order in which bug is fixed
+
+					Severity
+				Critical		Non Critical
+Priority	High    Key feature do not work		Company Logo is not correct
+		Low	Feature that is rarely used	Caption on image is written with wrong font
+
+low priority high S 	BCC, insert emoji
+l p l s		wrong icon for emoji button
+h p l s		spelling of Send is written as seent
+
+Regression Testing	is done to validate if application still works with new changes
+			is done once before release with help of automation
+Smoke/Sanity Testing	is done to validate critical functionalities or high level features
+			is done after each build or code change
+			Jenkins is used to Automate testing in CI Environment 
+			so that after each push by developer jenkins runs Smoke Tests 
+
+Unit Testing		is testing of individual programs done by Developer
+			is a White Box testing
+Component Testing	is testing of individual components by a Tester
+			is a Black Box testing
+Integration Testing	is testing of group of components
+
+Load Testing		is done to get response time of application under various loads
+Stress testing		is done to get breaking point of application
+
+Functional Testing	All tests made to verify functionality of application
+			Unit, Component, Integration, Regression, smoke
+			Functional Requirement is given by Client to Developer 
+
+Non-Functional Testing	All tests made to verify Performance, Usablity, Scalibility,
+			Security, Stablity
+			Load Testing, Stress testing
+WhiteBox Testing	Internal implementation is known
+			Done by developers 
+			Unit testing, Integration
+
+BlackBox testing 	Internal implementation is not known
+			Done by testers 
+			Regression testing
+
+
+Waterfall Model
+Spiral Model
+V-Model
+
+Static Testing		Review, walkthrough, Inspection of documents
+Dynamic Testing		Actual Testing	(White Box, Black Box)
+
+Agile Model
+	Agile follows Iterative (many SDLC)  &  Incremental (features get added in each cycle)  process
+	Develop a software with some features so that customer do not has to wait
+	Good Communication between Designers, Developers, Testers, Customer
+Scrum
+	It is a framework used to build software product by following Agile Principles
+	A scrum team has
+	1) Product Owner	defines & prioritize the features & communicate with customer
+	2) Scrum Master		Facilitates & drives the Agile Process in SDLC and team Members
+	3) Team			Designer, Developer, Tester 	
+	
+	
+
+Testing Techniques / Test Case Design Techniques	( https://www.youtube.com/watch?v=Wsw0pywdR5k&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9&index=6 
+	It is used to	
+			1)	Reduce no. of Test Cases
+			2)	Increase Coverage
+Types 
+1) Equilance Class Partition		Divide the data in multiple classes
+2) Boundary Value Analysis		min, min-1,min+1	max, max-1, max+1
+3) Decision Table Based Testing		when we have diff actions to perform based on many conditions & 
+					combination of conditions eg.    https://www.youtube.com/watch?v=Wsw0pywdR5k&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9&index=6
+4) State Transition			eg.  3 chances to input right username and password
+5) Error Guessing			Experienced testers can guess the bugs
+
+7 Principles of Testing			https://www.guru99.com/software-testing-seven-principles.html
+	
+	Exhaustive testing is not possible	We cannot test all test cases because it takes more time, money  so we test only some test cases 
+	Defects Clustering			80% of defects come from 20% of modules
+	Pesticide Paradox			Always using same test cases cannot find new bugs
+	Testing shows presence of defects 	means it does not show absence of defects
+	Absence of Error - fallacy		99% bug-free is still unusable if it not meets customer requirements
+	Early testing				defects in requirements & design phase should be constantly reviewed
+	Testing is context dependent		means testing of E-commerce website is diff from Banking software	
